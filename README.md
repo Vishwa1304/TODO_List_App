@@ -26,5 +26,4 @@ todo-list-app/
 - CSS3
 - JavaScript (ES6)
 
-  👨‍💻 Author
-Developed by Vishwa Pandya
+ 
